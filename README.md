@@ -11,40 +11,21 @@
 
 💬 Ask me about React, Tailwind CSS, Azure... or anything here
 
-⚡ Fun fact: I love adding a sprinkle of minimalism to everything I design—whether it’s a website or a piece of code, simplicity and efficiency are my go-to strategies. Check out my work below!
+⚡ Fun fact I enjoy exploring minimalist UI/UX designs
 
 </div>
-<hr/>
-
-<h2 align="center">🌐 My Projects 🌐</h2>
-<br/>
-
-<div align="left">
-    <a href="https://techxavvy.me" target="_blank">
-        <img align="left" width="300" height="180" src="https://via.placeholder.com/300x180?text=Techxavvy.me" alt="Techxavvy.me Snapshot" />
-    </a>
-    <p align="right"><strong>TechXavvy.me:</strong> My personal portfolio showcasing my skills, projects, and journey in the tech world. It’s a blend of creativity and functionality, built to leave a lasting impression. <a href="https://techxavvy.me" target="_blank">View Site</a></p>
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<div align="center"> 
+  <a href="mailto:prabhatchaubey803@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/prabhat-chaubey-aaa9b6238" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://www.techxavvy.in" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+  </a>
 </div>
-
-<div align="left">
-    <a href="https://agrosite.techxavvy.in" target="_blank">
-        <img align="left" width="300" height="180" src="https://via.placeholder.com/300x180?text=Agrosite" alt="Agrosite Snapshot" />
-    </a>
-    <p align="right"><strong>Agrosite:</strong> A comprehensive platform for farmers and agri-enthusiasts. This site provides tools and resources to help with everything from crop management to market analysis, ensuring the agricultural community stays informed and efficient. <a href="https://agrosite.techxavvy.in" target="_blank">View Site</a></p>
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</div>
-
-<div align="left">
-    <a href="https://techxavvy.in" target="_blank">
-        <img align="left" width="300" height="180" src="https://via.placeholder.com/300x180?text=Techxavvy.in" alt="Techxavvy.in Snapshot" />
-    </a>
-    <p align="right"><strong>TechXavvy.in:</strong> Your one-stop tech blog. Here, I share tutorials, tech news, and insights on the latest trends in the tech world. Built with a focus on user experience and mobile responsiveness. <a href="https://techxavvy.in" target="_blank">View Site</a></p>
-    <br/><br/><br/><br/><br/><br/><br/><br/><br/>
-</div>
-
-<hr/>
-
+ <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -52,15 +33,14 @@
 </div>
 <br/>
 <hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  <br/><br/><br/>
+<br/><br/><br/>
+
 </div>
 <hr/>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
