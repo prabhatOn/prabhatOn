@@ -5,9 +5,9 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 <br/>
 <div align="center">
-🔭 I’m currently working on Rice Mill Management System
+🔭 I’m currently working on My portfolio 
 
-🌱 I’m currently learning Data Structures and Algorithms in Java
+🌱 I’m currently learning Data Structures and Algorithms in C++
 
 💬 Ask me about React, Tailwind CSS, Azure... or anything here
 
@@ -54,6 +54,5 @@
 <hr/>
 <br/>
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 <br/>
