@@ -5,7 +5,6 @@
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
 <br/>
 <div align="center">
-🔭 I’m currently working on My portfolio 
 
 🌱 I’m currently learning Data Structures and Algorithms in C++
 
@@ -32,14 +31,6 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,typescript,python,java,html,css,bootstrap,azure,docker,nginx,github" /><br>
 </div>
 <br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-<br/><br/><br/>
-
-</div>
 <hr/>
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
